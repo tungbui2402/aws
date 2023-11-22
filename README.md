@@ -171,7 +171,7 @@ AWS Management Tools là một tập hợp các dịch vụ và giải pháp gi�
 
 - Dynatrace: Một công cụ quản lý hiệu suất ứng dụng và cơ sở hạ tầng AWS cho phép bạn giám sát, phân tích và cải thiện hiệu suất, khả năng mở rộng và độ tin cậy của các ứng dụng và dịch vụ chạy trên AWS.
 
- -CoreStack: Một công cụ quản lý quyền truy cập đám mây AWS cho phép bạn thiết lập, thực thi và kiểm tra các chính sách và tiêu chuẩn quyền truy cập đám mây của bạn, bao gồm chi phí, bảo mật, tuân thủ và chất lượng.
+ - CoreStack: Một công cụ quản lý quyền truy cập đám mây AWS cho phép bạn thiết lập, thực thi và kiểm tra các chính sách và tiêu chuẩn quyền truy cập đám mây của bạn, bao gồm chi phí, bảo mật, tuân thủ và chất lượng.
 
 - Ylastic: Một bảng điều khiển CloudOps di động và web cho AWS cho phép bạn quản lý, giám sát và tự động hóa các tài nguyên AWS của bạn từ bất kỳ thiết bị nào.
 
