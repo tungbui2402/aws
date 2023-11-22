@@ -12,7 +12,7 @@ Các tài nguyên tính toán này được liên kết chặt chẽ với các 
 AWS Compute là một trong những dịch vụ đầu tiên mà AWS cung cấp vào năm 2006, chỉ cung cấp một loại phiên bản EC-2 duy nhất. Amazon EC2 là dịch vụ AWS được sử dụng phổ biến nhất vì dịch vụ này có thể tích hợp với nhiều tính năng và dịch vụ khác như Auto Scale, Elastic Block Storage (EBS), Elastic Network Interface (ENI), Elastic Load Balancer (ELB), Amazon Machine Image (AMI), Instance Storage, Elastic IP, Place Group, Security Group, v.v.
 
 #### Các dịch vụ:
-- *EC-2 (Elastic Cloud Compute)*: Máy chủ ảo có thể được sử dụng cho tất cả các loại trường hợp sử dụng. Nền tảng cơ bản nhất của phiên bản EC2 thế hệ tiếp theo là Hệ thống AWS Nitro. Môi trường Server cho EC2 được gọi là instance. Gói hệ điều hành và một số cài đặt bổ sung trong mẫu có thể tái sử dụng của EC2 được gọi là Amazon Machine Images.
+- EC-2 (Elastic Cloud Compute): Máy chủ ảo có thể được sử dụng cho tất cả các loại trường hợp sử dụng. Nền tảng cơ bản nhất của phiên bản EC2 thế hệ tiếp theo là Hệ thống AWS Nitro. Môi trường Server cho EC2 được gọi là instance. Gói hệ điều hành và một số cài đặt bổ sung trong mẫu có thể tái sử dụng của EC2 được gọi là Amazon Machine Images.
 
 - Amazon Lightsail: Một trong những dịch vụ AWS dễ dàng nhất. Dễ dàng thiết lập máy chủ ảo cho các ứng dụng và trang web nhỏ. Cần ít cấu hình hơn so với EC2 hoặc các dịch vụ Điện toán AWS khác. Lightsail có tất cả các tiện ích bao gồm mọi thứ mà người dùng cần cho các trang web và ứng dụng web của họ như máy ảo (chọn HĐH Linux hoặc Windows), lưu trữ dựa trên SSD, truyền dữ liệu và nhiều hơn nữa.
 
