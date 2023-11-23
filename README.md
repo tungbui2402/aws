@@ -303,3 +303,10 @@ AWS Desktop & App Streaming là một khái niệm chỉ các dịch vụ và gi
 - Amazon WorkSpaces: Một dịch vụ cho phép bạn cung cấp các máy tính để bàn ảo trên đám mây cho người dùng của bạn, với các tùy chọn cấu hình, bảo mật và quản lý linh hoạt.
 
 - Amazon Nimble Studio: Một dịch vụ cho phép bạn xây dựng và vận hành các phòng thu nghệ thuật ảo trên đám mây, để tạo ra các nội dung 3D, hoạt hình và hiệu ứng đặc biệt, với các công cụ, dịch vụ và tài nguyên chuyên nghiệp.
+
+
+## Nguồn tham khảo
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html
+
+https://vietnix.vn/aws-la-gi/
+
